@@ -1,0 +1,1220 @@
+[
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e0\u10eb\u10d8\u10e1 \u10dc\u10d0\u10ec\u10d0\u10e0\u10db\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "6998"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10d0\u10e0\u10d0\u10df\u10d0\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "6999"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10ee\u10d0\u10ed\u10dd,\u10d3\u10d4\u10e1\u10d4\u10e0\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7000"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10db\u10d0\u10ec\u10dd\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7001"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10d8\u10dd\u10d2\u10e3\u10e0\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7002"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10d9\u10d4\u10e4\u10d8\u10e0\u10d8,\u10d0\u10d8\u10e0\u10d0\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7003"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10e0\u10eb\u10d4",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7004"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10e8\u10d4\u10e1\u10e5\u10d4\u10da\u10d4\u10d1\u10e3\u10da\u10d8 \u10e0\u10eb\u10d4",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7005"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10dc\u10d0\u10e6\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7006"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10d9\u10d0\u10e0\u10d0\u10e5\u10d8,\u10e1\u10de\u10e0\u10d4\u10d3\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7007"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10db\u10ea\u10d4\u10dc\u10d0\u10e0\u10d4\u10e3\u10da\u10d8 \u10ea\u10ee\u10d8\u10db\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7008"
+  },
+  {
+    "PARENT_UID": "6998",
+    "CATEGORY_NAME": "\u10e7\u10d5\u10d4\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7009"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10de\u10e3\u10e0-\u10e4\u10e3\u10dc\u10d7\u10e3\u10e8\u10d4\u10e3\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7011"
+  },
+  {
+    "PARENT_UID": "7011",
+    "CATEGORY_NAME": "\u10de\u10e3\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7012"
+  },
+  {
+    "PARENT_UID": "7011",
+    "CATEGORY_NAME": "\u10dd\u10e0\u10ea\u10ee\u10dd\u10d1\u10d8\u10da\u10d0,\u10ee\u10e0\u10d0\u10e8\u10e3\u10dc\u10d0 \u10de\u10e3\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7013"
+  },
+  {
+    "PARENT_UID": "7011",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e4\u10d0\u10dc\u10d4\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7014"
+  },
+  {
+    "PARENT_UID": "7011",
+    "CATEGORY_NAME": "\u10e4\u10e3\u10dc\u10d7\u10e3\u10e8\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7015"
+  },
+  {
+    "PARENT_UID": "7011",
+    "CATEGORY_NAME": "\u10d9\u10e0\u10dd\u10d0\u10e1\u10d0\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7016"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d1\u10d0\u10d9\u10d0\u10da\u10d4\u10d0(\u10e1\u10e3\u10e0\u10e1\u10d0\u10d7\u10d8)",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7017"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10e8\u10d0\u10e5\u10d0\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7018"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10db\u10d0\u10e0\u10d8\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7019"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10e4\u10e5\u10d5\u10d8\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7020"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10d1\u10e3\u10e0\u10e6\u10e3\u10da\u10d4\u10e3\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7021"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10db\u10d0\u10d9\u10d0\u10e0\u10dd\u10dc\u10d8.\u10d5\u10d4\u10e0\u10db\u10d8\u10e8\u10d4\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7023"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10d6\u10d4\u10d7\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7024"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10eb\u10db\u10d0\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7025"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10db\u10d0\u10d8\u10dd\u10dc\u10d4\u10d6\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7026"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10e2\u10dd\u10db\u10d0\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7027"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10e2\u10e7\u10d4\u10db\u10d0\u10da\u10d8,\u10e1\u10dd\u10e3\u10e1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7028"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10d9\u10dd\u10dc\u10d3\u10d8\u10e2\u10e0\u10dd \u10d3\u10d0\u10dc\u10d0\u10db\u10d0\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7029"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10dc\u10d4\u10da\u10d4\u10d1\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7030"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10d9\u10d5\u10d4\u10e0\u10ea\u10ee\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7031"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d9\u10dd\u10dc\u10e1\u10d4\u10e0\u10d5\u10d0\u10ea\u10d8\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7032"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10ee\u10dd\u10e0\u10ea\u10d8\u10e1 \u10d9\u10dd\u10dc\u10e1\u10d4\u10e0\u10d5\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7033"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10d7\u10d4\u10d5\u10d6\u10d8\u10e1 \u10d9\u10dd\u10dc\u10e1\u10d4\u10e0\u10d5\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7034"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10ee\u10d8\u10d6\u10d8\u10da\u10d0\u10da\u10d0,\u10de\u10d0\u10e8\u10e2\u10d4\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7035"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10d3\u10d0\u10d9\u10dd\u10dc\u10e1\u10d4\u10e0\u10d5\u10d4\u10d1\u10e3\u10da\u10d8 \u10ee\u10d8\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7036"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10d6\u10d4\u10d7\u10d8\u10e1\u10ee\u10d8\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7037"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10ef\u10d4\u10db\u10d8,\u10db\u10e3\u10e0\u10d0\u10d1\u10d0,\u10d7\u10d0\u10e4\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7038"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10ee\u10dd\u10e0\u10ea\u10d8\u10e1 \u10de\u10e0\u10dd\u10d3\u10e3\u10e5\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7039"
+  },
+  {
+    "PARENT_UID": "7039",
+    "CATEGORY_NAME": "\u10ee\u10dd\u10e0\u10ea\u10d8,\u10e4\u10d0\u10e0\u10e8\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7040"
+  },
+  {
+    "PARENT_UID": "7039",
+    "CATEGORY_NAME": "\u10e5\u10d0\u10d7\u10d0\u10db\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7041"
+  },
+  {
+    "PARENT_UID": "7039",
+    "CATEGORY_NAME": "\u10d9\u10e3\u10e0\u10d3\u10e6\u10d4\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7042"
+  },
+  {
+    "PARENT_UID": "7039",
+    "CATEGORY_NAME": "\u10e1\u10dd\u10e1\u10d8\u10e1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7043"
+  },
+  {
+    "PARENT_UID": "7039",
+    "CATEGORY_NAME": "\u10eb\u10d4\u10ee\u10d5\u10d8,\u10e8\u10d0\u10e8\u10ee\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7044"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d6\u10e6\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d3\u10e3\u10e5\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7045"
+  },
+  {
+    "PARENT_UID": "7045",
+    "CATEGORY_NAME": "\u10d7\u10d4\u10d5\u10d6\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7046"
+  },
+  {
+    "PARENT_UID": "7045",
+    "CATEGORY_NAME": "\u10d6\u10e6\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d3\u10e3\u10e5\u10e2\u10d4\u10d1\u10d8.\u10db\u10d6\u10d0 \u10d2\u10d0\u10e7\u10d8\u10dc\u10e3\u10da\u10d8 \u10d7\u10d4\u10d5\u10d6\u10d4\u10e3\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7047"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10dc\u10d0\u10ee\u10d4\u10d5\u10d0\u10e0\u10e4\u10d0\u10d1\u10e0\u10d8\u10d9\u10d0\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7048"
+  },
+  {
+    "PARENT_UID": "7048",
+    "CATEGORY_NAME": "\u10e1\u10ec\u10e0\u10d0\u10e4\u10d8 \u10db\u10dd\u10db\u10d6\u10d0\u10d3\u10d4\u10d1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d3\u10e3\u10e5\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7049"
+  },
+  {
+    "PARENT_UID": "7048",
+    "CATEGORY_NAME": "\u10d2\u10d0\u10e7\u10d8\u10dc\u10e3\u10da\u10d8 \u10dc\u10d0\u10ee\u10d4\u10d5\u10d0\u10e0\u10e4\u10d0\u10d1\u10e0\u10d8\u10d9\u10d0\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7050"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e2\u10d9\u10d1\u10d8\u10da\u10d4\u10e3\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7051"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10dc\u10d0\u10db\u10ea\u10ee\u10d5\u10d0\u10e0\u10d8,\u10e2\u10dd\u10e0\u10e2\u10d8,\u10dd\u10e0\u10ea\u10ee\u10dd\u10d1\u10d8\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7052"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10d3\u10d4\u10e1\u10d4\u10e0\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7053"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10dc\u10d0\u10e7\u10d8\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7054"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10d1\u10e3\u10e0\u10d1\u10e3\u10e8\u10d4\u10da\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7055"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10de\u10dd\u10de\u10d9\u10dd\u10e0\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7056"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10d9\u10e0\u10d4\u10d9\u10d4\u10e0\u10d8,\u10d5\u10d0\u10e4\u10da\u10d8,\u10d1\u10d8\u10e1\u10d9\u10d5\u10d8\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7057"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10e8\u10dd\u10d9\u10dd\u10da\u10d0\u10d3\u10d8,\u10d9\u10d0\u10dc\u10e4\u10d4\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7058"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e6\u10d4\u10ed\u10d8 \u10e0\u10d4\u10d6\u10d8\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7060"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10ee\u10d8\u10da-\u10d1\u10dd\u10e1\u10e2\u10d0\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7061"
+  },
+  {
+    "PARENT_UID": "7061",
+    "CATEGORY_NAME": "\u10ee\u10d8\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7062"
+  },
+  {
+    "PARENT_UID": "7061",
+    "CATEGORY_NAME": "\u10d1\u10dd\u10e1\u10e2\u10dc\u10d4\u10e3\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7063"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d0\u10da\u10d9\u10dd\u10f0\u10dd\u10da\u10e3\u10e0\u10d8 \u10e1\u10d0\u10e1\u10db\u10d4\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7064"
+  },
+  {
+    "PARENT_UID": "7064",
+    "CATEGORY_NAME": "\u10e6\u10d5\u10d8\u10dc\u10dd",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7065"
+  },
+  {
+    "PARENT_UID": "7064",
+    "CATEGORY_NAME": "\u10d0\u10e0\u10d0\u10e7\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7066"
+  },
+  {
+    "PARENT_UID": "7064",
+    "CATEGORY_NAME": "\u10ea\u10e5\u10e0\u10d8\u10d0\u10da\u10d0 \u10e6\u10d5\u10d8\u10dc\u10dd,\u10e8\u10d0\u10db\u10de\u10d0\u10dc\u10e3\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7067"
+  },
+  {
+    "PARENT_UID": "7064",
+    "CATEGORY_NAME": "\u10d9\u10dd\u10dc\u10d8\u10d0\u10d9\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7068"
+  },
+  {
+    "PARENT_UID": "7064",
+    "CATEGORY_NAME": "\u10d5\u10d8\u10e1\u10d9\u10d8,\u10e0\u10dd\u10db\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7069"
+  },
+  {
+    "PARENT_UID": "7064",
+    "CATEGORY_NAME": "\u10da\u10d8\u10e5\u10d8\u10dd\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7070"
+  },
+  {
+    "PARENT_UID": "7064",
+    "CATEGORY_NAME": "\u10da\u10e3\u10d3\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7071"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d2\u10d0\u10db\u10d0\u10d2\u10e0\u10d8\u10da\u10d4\u10d1\u10d4\u10da\u10d8 \u10e1\u10d0\u10e1\u10db\u10d4\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7072"
+  },
+  {
+    "PARENT_UID": "7072",
+    "CATEGORY_NAME": "\u10dc\u10d0\u10e2\u10e3\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10ec\u10d5\u10d4\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7073"
+  },
+  {
+    "PARENT_UID": "7072",
+    "CATEGORY_NAME": "\u10db\u10d8\u10dc\u10d4\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10d3\u10d0 \u10ec\u10e7\u10d0\u10e0\u10dd\u10e1 \u10ec\u10e7\u10d0\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7074"
+  },
+  {
+    "PARENT_UID": "7072",
+    "CATEGORY_NAME": "\u10db\u10d0\u10e2\u10dd\u10dc\u10d8\u10d6\u10d8\u10e0\u10d4\u10d1\u10d4\u10da\u10d8 \u10e1\u10d0\u10e1\u10db\u10d4\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7075"
+  },
+  {
+    "PARENT_UID": "7072",
+    "CATEGORY_NAME": "\u10ea\u10d8\u10d5\u10d8 \u10e9\u10d0\u10d8,\u10e7\u10d0\u10d5\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7076"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e7\u10d0\u10d5\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7077"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e9\u10d0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7078"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e7\u10dd\u10e4\u10d0\u10ea\u10ee\u10dd\u10d5\u10e0\u10d4\u10d1\u10dd \u10e5\u10d8\u10db\u10d8\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7079"
+  },
+  {
+    "PARENT_UID": "7079",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e0\u10d4\u10ea\u10ee\u10d8 \u10e4\u10ee\u10d5\u10dc\u10d8\u10da\u10d8,\u10e1\u10d8\u10d7\u10ee\u10d4",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7080"
+  },
+  {
+    "PARENT_UID": "7079",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e0\u10d4\u10ea\u10ee\u10d8 \u10e1\u10d0\u10d5\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7081"
+  },
+  {
+    "PARENT_UID": "7079",
+    "CATEGORY_NAME": "\u10ed\u10e3\u10e0\u10ed\u10da\u10d8\u10e1 \u10e1\u10d0\u10e0\u10d4\u10ea\u10ee\u10d8 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7082"
+  },
+  {
+    "PARENT_UID": "7079",
+    "CATEGORY_NAME": "\u10d0\u10d1\u10d0\u10d6\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d0 \u10e1\u10d0\u10db\u10d6\u10d0\u10e0\u10d4\u10e3\u10da\u10dd\u10e1 \u10e1\u10d0\u10ec\u10db\u10d4\u10dc\u10d3\u10d8 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7083"
+  },
+  {
+    "PARENT_UID": "7079",
+    "CATEGORY_NAME": "\u10f0\u10d0\u10d4\u10e0\u10d2\u10d0\u10db\u10ec\u10db\u10d4\u10dc\u10d3\u10d8 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7084"
+  },
+  {
+    "PARENT_UID": "7079",
+    "CATEGORY_NAME": "\u10d0\u10d5\u10d4\u10ef\u10d8\u10e1 \u10d3\u10d0 \u10d8\u10d0\u10e2\u10d0\u10d9\u10d8\u10e1 \u10db\u10dd\u10d5\u10da\u10d8\u10e1 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7085"
+  },
+  {
+    "PARENT_UID": "7079",
+    "CATEGORY_NAME": "\u10db\u10ec\u10d4\u10e0\u10d4\u10d1\u10d8\u10e1 \u10e1\u10d0\u10ec\u10d8\u10dc\u10d0\u10d0\u10e6\u10db\u10d3\u10d4\u10d2\u10dd",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7086"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7087"
+  },
+  {
+    "PARENT_UID": "7087",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e8\u10ee\u10d0\u10de\u10d4 \u10d2\u10d4\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7090"
+  },
+  {
+    "PARENT_UID": "7087",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10de\u10dd\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7092"
+  },
+  {
+    "PARENT_UID": "7087",
+    "CATEGORY_NAME": "\u10d3\u10d4\u10dd\u10d3\u10dd\u10e0\u10d0\u10dc\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7093"
+  },
+  {
+    "PARENT_UID": "7087",
+    "CATEGORY_NAME": "\u10d1\u10d0\u10db\u10d1\u10d8\u10e1 \u10d3\u10d8\u10e1\u10d9\u10d8,\u10e7\u10e3\u10e0\u10d8\u10e1 \u10e9\u10ee\u10d8\u10e0\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7094"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d7\u10db\u10d8\u10e1 \u10db\u10dd\u10d5\u10da\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7095"
+  },
+  {
+    "PARENT_UID": "7095",
+    "CATEGORY_NAME": "\u10e8\u10d0\u10db\u10de\u10e3\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7096"
+  },
+  {
+    "PARENT_UID": "7095",
+    "CATEGORY_NAME": "\u10d1\u10d0\u10da\u10d6\u10d0\u10db\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7097"
+  },
+  {
+    "PARENT_UID": "7095",
+    "CATEGORY_NAME": "\u10dc\u10d8\u10e6\u10d0\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7098"
+  },
+  {
+    "PARENT_UID": "7095",
+    "CATEGORY_NAME": "\u10d7\u10db\u10d8\u10e1 \u10d6\u10d4\u10d7\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7099"
+  },
+  {
+    "PARENT_UID": "7095",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e6\u10d4\u10d1\u10d0\u10d5\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7100"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10de\u10d8\u10e0\u10d8\u10e1 \u10e6\u10e0\u10e3\u10e1 \u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7101"
+  },
+  {
+    "PARENT_UID": "7101",
+    "CATEGORY_NAME": "\u10d9\u10d1\u10d8\u10da\u10d8\u10e1 \u10de\u10d0\u10e1\u10e2\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7102"
+  },
+  {
+    "PARENT_UID": "7101",
+    "CATEGORY_NAME": "\u10d9\u10d1\u10d8\u10da\u10d8\u10e1 \u10ef\u10d0\u10d2\u10e0\u10d8\u10e1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7103"
+  },
+  {
+    "PARENT_UID": "7101",
+    "CATEGORY_NAME": "\u10de\u10d8\u10e0\u10d8\u10e1 \u10e6\u10e0\u10e3\u10e1 \u10e1\u10d0\u10d5\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7104"
+  },
+  {
+    "PARENT_UID": "7101",
+    "CATEGORY_NAME": "\u10e4\u10da\u10dd\u10e1\u10d8,\u10d9\u10d1\u10d8\u10da\u10d8\u10e1 \u10e9\u10ee\u10d8\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7105"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10de\u10d0\u10e0\u10e1\u10d8 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7108"
+  },
+  {
+    "PARENT_UID": "7108",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10de\u10d0\u10e0\u10e1\u10d8 \u10e1\u10d8\u10e1\u10e2\u10d4\u10db\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7109"
+  },
+  {
+    "PARENT_UID": "7108",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10de\u10d0\u10e0\u10e1\u10d8 \u10e5\u10d0\u10e4\u10d8,\u10da\u10dd\u10e1\u10d8\u10dd\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7110"
+  },
+  {
+    "PARENT_UID": "7110",
+    "CATEGORY_NAME": "\u10d3\u10d4\u10de\u10d8\u10da\u10d0\u10ea\u10d8\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7111"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e5\u10d0\u10da\u10d7\u10d0 \u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7112"
+  },
+  {
+    "PARENT_UID": "7112",
+    "CATEGORY_NAME": "\u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10e3\u10e0\u10d8 \u10e1\u10d0\u10e4\u10d4\u10dc\u10d8,\u10e2\u10d0\u10db\u10de\u10dd\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7113"
+  },
+  {
+    "PARENT_UID": "7112",
+    "CATEGORY_NAME": "\u10d8\u10dc\u10e2\u10d8\u10db\u10e3\u10e0\u10d8 \u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7114"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d1\u10d0\u10d5\u10e8\u10d5\u10d7\u10d0 \u10db\u10dd\u10d5\u10da\u10d8\u10e1 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7115"
+  },
+  {
+    "PARENT_UID": "7115",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10de\u10dd\u10dc\u10d8,\u10e8\u10d0\u10db\u10de\u10e3\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7116"
+  },
+  {
+    "PARENT_UID": "7115",
+    "CATEGORY_NAME": "\u10d9\u10e0\u10d4\u10db\u10d8,\u10d6\u10d4\u10d7\u10d8,\u10e2\u10d0\u10da\u10d9\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7117"
+  },
+  {
+    "PARENT_UID": "7115",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e0\u10d4\u10ea\u10ee\u10d8 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7118"
+  },
+  {
+    "PARENT_UID": "7115",
+    "CATEGORY_NAME": "\u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10e3\u10e0\u10d8 \u10e1\u10d0\u10e4\u10d4\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7119"
+  },
+  {
+    "PARENT_UID": "7115",
+    "CATEGORY_NAME": "\u10e1\u10d5\u10d4\u10da\u10d8 \u10e1\u10d0\u10ec\u10db\u10d4\u10dc\u10d3\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7120"
+  },
+  {
+    "PARENT_UID": "7115",
+    "CATEGORY_NAME": "\u10d9\u10d1\u10d8\u10da\u10d8\u10e1 \u10de\u10d0\u10e1\u10e2\u10d0,\u10ef\u10d0\u10d2\u10e0\u10d8\u10e1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7121"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10e3\u10e0\u10d8 \u10e5\u10d0\u10e6\u10d0\u10da\u10d3\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7122"
+  },
+  {
+    "PARENT_UID": "7122",
+    "CATEGORY_NAME": "\u10ee\u10d4\u10da\u10e1\u10d0\u10ee\u10dd\u10ea\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7123"
+  },
+  {
+    "PARENT_UID": "7122",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10db\u10d6\u10d0\u10e0\u10d4\u10e3\u10da\u10dd\u10e1 \u10e5\u10d0\u10e6\u10d0\u10da\u10d3\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7124"
+  },
+  {
+    "PARENT_UID": "7122",
+    "CATEGORY_NAME": "\u10e2\u10e3\u10d0\u10da\u10d4\u10e2\u10d8\u10e1 \u10e5\u10d0\u10e6\u10d0\u10da\u10d3\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7125"
+  },
+  {
+    "PARENT_UID": "7122",
+    "CATEGORY_NAME": "\u10ea\u10ee\u10d5\u10d8\u10e0\u10e1\u10d0\u10ee\u10dd\u10ea\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7126"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10ea\u10ee\u10dd\u10d5\u10d4\u10da\u10d7\u10d0 \u10db\u10dd\u10d5\u10da\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7127"
+  },
+  {
+    "PARENT_UID": "7127",
+    "CATEGORY_NAME": "\u10ea\u10ee\u10dd\u10d5\u10d4\u10da\u10d7\u10d0 \u10d9\u10d5\u10d4\u10d1\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7128"
+  },
+  {
+    "PARENT_UID": "7127",
+    "CATEGORY_NAME": "\u10ea\u10ee\u10dd\u10d5\u10d4\u10da\u10d7\u10d0 \u10f0\u10d8\u10d2\u10d8\u10d4\u10dc\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7129"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10db\u10d4\u10e3\u10e0\u10dc\u10d4\u10dd \u10dc\u10d8\u10d5\u10d7\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7130"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10ec\u10db\u10d4\u10dc\u10d3\u10d8 \u10e2\u10d8\u10da\u10dd\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7131"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10ed\u10e3\u10e0\u10ed\u10da\u10d8\u10e1 \u10e1\u10d0\u10e0\u10d4\u10ea\u10ee\u10d8 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d0,\u10e1\u10d0\u10ee\u10d4\u10ee\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7132"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10ee\u10d4\u10da\u10d7\u10d0\u10d7\u10db\u10d0\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7133"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10ef\u10d0\u10d2\u10e0\u10d8\u10e1\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7134"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10dc\u10d0\u10d2\u10d5\u10d8\u10e1 \u10de\u10d0\u10e0\u10d9\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7135"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10ea\u10ee\u10dd\u10d1\u10d8 \u10e5\u10d0\u10e6\u10d0\u10da\u10d3\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7136"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10d4\u10da\u10d4\u10db\u10d4\u10dc\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7137"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "\u10dc\u10d0\u10d7\u10e3\u10e0\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7138"
+  },
+  {
+    "PARENT_UID": "7130",
+    "CATEGORY_NAME": "1000\u10ec\u10d5\u10e0\u10d8\u10da\u10db\u10d0\u10dc\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7139"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10db\u10d6\u10d4\u10e1\u10e3\u10db\u10d6\u10d8\u10e0\u10d0,\u10d7\u10ee\u10d8\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7166"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10e8\u10dd\u10d9\u10dd\u10da\u10d0\u10d3\u10d8\u10e1 \u10d0\u10e1\u10dd\u10e0\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7167"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10de\u10d0\u10e0\u10d9\u10dd\u10e1\u10d0\u10dc\u10d8 \u10de\u10e0\u10dd\u10d3\u10e3\u10e5\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7182"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10d9\u10d4\u10e9\u10e3\u10de\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7183"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10db\u10ec\u10dc\u10d8\u10da\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7194"
+  },
+  {
+    "PARENT_UID": "7032",
+    "CATEGORY_NAME": "\u10e1\u10dd\u10d9\u10dd,\u10d1\u10d0\u10e0\u10d3\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7195"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e1\u10dc\u10d4\u10e5\u10d4\u10d1\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7419"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10dd\u10e0\u10ea\u10ee\u10dd\u10d1\u10d8\u10da\u10d4\u10d1\u10d8 \u10d0\u10e1\u10d0\u10ec\u10dd\u10dc\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7532"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10e8\u10dd\u10d9\u10dd\u10da\u10d0\u10d3\u10d8\u10e1 \u10d9\u10d0\u10e0\u10d0\u10e5\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "7533"
+  },
+  {
+    "PARENT_UID": "7071",
+    "CATEGORY_NAME": "\u10e8\u10e3\u10e8\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9028"
+  },
+  {
+    "PARENT_UID": "7071",
+    "CATEGORY_NAME": "\u10d7\u10e3\u10dc\u10e3\u10e5\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9029"
+  },
+  {
+    "PARENT_UID": "7071",
+    "CATEGORY_NAME": "\u10de\u10d4\u10e2\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9030"
+  },
+  {
+    "PARENT_UID": "7112",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10ee\u10d8\u10e1 \u10db\u10dd\u10d5\u10da\u10d8\u10e1 \u10e1\u10d0\u10e8\u10e3\u10d0\u10da\u10d4\u10d1\u10d4\u10d1\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9189"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10d3\u10e6\u10d4\u10e1\u10d0\u10e1\u10ec\u10d0\u10e3\u10da\u10dd \u10dc\u10d8\u10d5\u10d7\u10d4\u10d1\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9400"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10d7\u10d0\u10db\u10d0\u10e8\u10dd\u10d4\u10d1\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9599"
+  },
+  {
+    "PARENT_UID": "9599",
+    "CATEGORY_NAME": "\u10e1\u10de\u10dd\u10e0\u10e2\u10e3\u10da\u10d8 \u10d8\u10dc\u10d5\u10d4\u10dc\u10e2\u10d0\u10e0\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9600"
+  },
+  {
+    "PARENT_UID": "7419",
+    "CATEGORY_NAME": "\u10e9\u10d8\u10e4\u10e1\u10d4\u10d1\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9601"
+  },
+  {
+    "PARENT_UID": "7419",
+    "CATEGORY_NAME": "\u10e1\u10e3\u10ee\u10d0\u10e0\u10d8\u10d9\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9602"
+  },
+  {
+    "PARENT_UID": "7419",
+    "CATEGORY_NAME": "\u10d9\u10e0\u10d4\u10d9\u10d4\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9603"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10d9\u10d0\u10dc\u10ea\u10d4\u10da\u10d0\u10e0\u10d8\u10dd",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9605"
+  },
+  {
+    "PARENT_UID": "7077",
+    "CATEGORY_NAME": "\u10e7\u10d0\u10d5\u10d0 \u10dc\u10d0\u10da\u10d4\u10e5\u10d8\u10d0\u10dc\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9606"
+  },
+  {
+    "PARENT_UID": "7077",
+    "CATEGORY_NAME": "\u10e7\u10d0\u10d5\u10d0 \u10ee\u10e1\u10dc\u10d0\u10d3\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9607"
+  },
+  {
+    "PARENT_UID": "7078",
+    "CATEGORY_NAME": "\u10e8\u10d0\u10d5\u10d8 \u10e9\u10d0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9608"
+  },
+  {
+    "PARENT_UID": "7078",
+    "CATEGORY_NAME": "\u10db\u10ec\u10d5\u10d0\u10dc\u10d4 \u10e9\u10d0\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9609"
+  },
+  {
+    "PARENT_UID": "7078",
+    "CATEGORY_NAME": "\u10ee\u10d8\u10da\u10d8\u10e1 \u10e9\u10d0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9610"
+  },
+  {
+    "PARENT_UID": "7051",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10e6\u10d4\u10ed\u10d8 \u10d9\u10d0\u10dc\u10e4\u10d4\u10e2\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9615"
+  },
+  {
+    "PARENT_UID": "7072",
+    "CATEGORY_NAME": "\u10d2\u10d0\u10d6\u10d8\u10d0\u10dc\u10d8 \u10e1\u10d0\u10e1\u10db\u10d4\u10da\u10d4\u10d1\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9624"
+  },
+  {
+    "PARENT_UID": "7072",
+    "CATEGORY_NAME": "\u10d9\u10dd\u10db\u10de\u10dd\u10e2\u10d4\u10d1\u10d8 ",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9625"
+  },
+  {
+    "PARENT_UID": "1",
+    "CATEGORY_NAME": "\u10d3\u10d8\u10d0\u10d1\u10d4\u10e2\u10e3\u10e0\u10d8 \u10d9\u10e3\u10d7\u10ee\u10d4",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9626"
+  },
+  {
+    "PARENT_UID": "7061",
+    "CATEGORY_NAME": "\u10ee\u10d8\u10da\u10d8\u10e1 \u10e9\u10d8\u10e0\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9670"
+  },
+  {
+    "PARENT_UID": "9605",
+    "CATEGORY_NAME": "\u10e0\u10d5\u10d4\u10e3\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9958"
+  },
+  {
+    "PARENT_UID": "9605",
+    "CATEGORY_NAME": "\u10d9\u10d0\u10da\u10d0\u10db\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9959"
+  },
+  {
+    "PARENT_UID": "9605",
+    "CATEGORY_NAME": "\u10e1\u10ee\u10d5\u10d0 \u10e1\u10d0\u10d9\u10d0\u10dc\u10ea\u10d4\u10da\u10d0\u10e0\u10d8\u10dd",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9960"
+  },
+  {
+    "PARENT_UID": "7087",
+    "CATEGORY_NAME": "\u10e1\u10d5\u10d4\u10da\u10d8 \u10e1\u10d0\u10da\u10e4\u10d4\u10d7\u10e5\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9967"
+  },
+  {
+    "PARENT_UID": "7087",
+    "CATEGORY_NAME": "\u10d9\u10e0\u10d4\u10db\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9968"
+  },
+  {
+    "PARENT_UID": "7017",
+    "CATEGORY_NAME": "\u10d9\u10d0\u10d9\u10d0\u10dd",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9969"
+  },
+  {
+    "PARENT_UID": "7039",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10da\u10d0",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9970"
+  },
+  {
+    "PARENT_UID": "9599",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10d7\u10d0\u10db\u10d0\u10e8\u10dd\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9971"
+  },
+  {
+    "PARENT_UID": "9626",
+    "CATEGORY_NAME": "\u10d3\u10d8\u10d0\u10d1\u10d4\u10e2\u10e3\u10e0\u10d8 \u10e2\u10d9\u10d1\u10d8\u10da\u10d4\u10e3\u10da\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "9975"
+  },
+  {
+    "PARENT_UID": "9400",
+    "CATEGORY_NAME": "\u10e1\u10d0\u10d3\u10e6\u10d4\u10e1\u10d0\u10e1\u10ec\u10d0\u10e3\u10da\u10dd \u10dc\u10d8\u10d5\u10d7\u10d4\u10d1\u10d8",
+    "PROD_COUNT": 0,
+    "CHILD_COUNT": 0,
+    "UID": "10033"
+  }
+]
